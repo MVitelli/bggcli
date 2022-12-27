@@ -1,0 +1,258 @@
+{
+  "items": {
+    "total": "42",
+    "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
+    "item": [
+      {
+        "type": "boardgame",
+        "id": "119303",
+        "name": { "type": "primary", "value": "All About New Orleans" },
+        "yearpublished": { "value": "1983" }
+      },
+      {
+        "type": "boardgame",
+        "id": "12723",
+        "name": { "type": "primary", "value": "Battle for the Bayous: The New Orleans Campaign" },
+        "yearpublished": { "value": "1998" }
+      },
+      {
+        "type": "boardgame",
+        "id": "36108",
+        "name": { "type": "primary", "value": "Battle of New Orleans" },
+        "yearpublished": { "value": "2005" }
+      },
+      {
+        "type": "boardgame",
+        "id": "212468",
+        "name": { "type": "primary", "value": "A House in New Orleans" },
+        "yearpublished": { "value": "2017" }
+      },
+      {
+        "type": "boardgame",
+        "id": "364641",
+        "name": { "type": "primary", "value": "Joan of Arc: Orléans Draw & Write" },
+        "yearpublished": { "value": "2022" }
+      },
+      {
+        "type": "boardgame",
+        "id": "18457",
+        "name": { "type": "primary", "value": "Maid of Orleans" },
+        "yearpublished": { "value": "1993" }
+      },
+      {
+        "type": "boardgame",
+        "id": "41089",
+        "name": { "type": "alternate", "value": "Mardi Gras New Orleans" },
+        "yearpublished": { "value": "1982" }
+      },
+      {
+        "type": "boardgame",
+        "id": "9864",
+        "name": { "type": "primary", "value": "Miracle sur la Loire: Jeanne d'Arc à Orléans" },
+        "yearpublished": { "value": "2000" }
+      },
+      {
+        "type": "boardgame",
+        "id": "68818",
+        "name": {
+          "type": "primary",
+          "value": "Monopoly: New Orleans Saints Super Bowl XLIV Champions Collector's Edition"
+        },
+        "yearpublished": { "value": "2010" }
+      },
+      {
+        "type": "boardgame",
+        "id": "40302",
+        "name": { "type": "primary", "value": "Monopoly: Orléans" },
+        "yearpublished": { "value": "2002" }
+      },
+      {
+        "type": "boardgame",
+        "id": "933",
+        "name": { "type": "primary", "value": "New Orleans Big Band" },
+        "yearpublished": { "value": "1990" }
+      },
+      {
+        "type": "boardgame",
+        "id": "17867",
+        "name": { "type": "primary", "value": "New Orleans in a Box" },
+        "yearpublished": { "value": "1998" }
+      },
+      {
+        "type": "boardgame",
+        "id": "33554",
+        "name": { "type": "primary", "value": "New Orleans Scene" },
+        "yearpublished": { "value": "1979" }
+      },
+      {
+        "type": "boardgame",
+        "id": "28763",
+        "name": { "type": "primary", "value": "New Orleans, 1815" },
+        "yearpublished": { "value": "1976" }
+      },
+      { "type": "boardgame", "id": "71997", "name": { "type": "primary", "value": "New Orleans-opoly" } },
+      {
+        "type": "boardgame",
+        "id": "164928",
+        "name": { "type": "primary", "value": "Orléans" },
+        "yearpublished": { "value": "2014" }
+      },
+      {
+        "type": "boardgame",
+        "id": "287275",
+        "name": { "type": "primary", "value": "Orléans Stories" },
+        "yearpublished": { "value": "2019" }
+      },
+      {
+        "type": "boardgame",
+        "id": "317230",
+        "name": { "type": "primary", "value": "Orléans Stories Expansion: Stories 3 & 4" },
+        "yearpublished": { "value": "2020" }
+      },
+      {
+        "type": "boardgame",
+        "id": "231964",
+        "name": { "type": "primary", "value": "Orléans: 5th Player Box" },
+        "yearpublished": { "value": "2017" }
+      },
+      {
+        "type": "boardgame",
+        "id": "189623",
+        "name": { "type": "primary", "value": "Orléans: Christmas Market" },
+        "yearpublished": { "value": "2015" }
+      },
+      {
+        "type": "boardgame",
+        "id": "171905",
+        "name": { "type": "primary", "value": "Orléans: Deluxe Edition" },
+        "yearpublished": { "value": "2015" }
+      },
+      {
+        "type": "boardgame",
+        "id": "186236",
+        "name": { "type": "primary", "value": "Orléans: Die Reise nach Tours" },
+        "yearpublished": { "value": "2015" }
+      },
+      {
+        "type": "boardgame",
+        "id": "231405",
+        "name": { "type": "primary", "value": "Orléans: Drawbridge" },
+        "yearpublished": { "value": "2017" }
+      },
+      {
+        "type": "boardgame",
+        "id": "307822",
+        "name": { "type": "primary", "value": "Orléans: Estátua" },
+        "yearpublished": { "value": "2018" }
+      },
+      {
+        "type": "boardgame",
+        "id": "190049",
+        "name": { "type": "primary", "value": "Orléans: Fan-Kit" },
+        "yearpublished": { "value": "2014" }
+      },
+      {
+        "type": "boardgame",
+        "id": "286020",
+        "name": { "type": "primary", "value": "Orléans: Gaming Room" },
+        "yearpublished": { "value": "2019" }
+      },
+      {
+        "type": "boardgame",
+        "id": "183682",
+        "name": { "type": "primary", "value": "Orléans: Invasion" },
+        "yearpublished": { "value": "2015" }
+      },
+      {
+        "type": "boardgame",
+        "id": "247797",
+        "name": { "type": "primary", "value": "Orléans: L'évêché de Tours" },
+        "yearpublished": { "value": "2018" }
+      },
+      {
+        "type": "boardgame",
+        "id": "179417",
+        "name": { "type": "primary", "value": "Orléans: Neue Ortskarten N°1" },
+        "yearpublished": { "value": "2015" }
+      },
+      {
+        "type": "boardgame",
+        "id": "184018",
+        "name": { "type": "primary", "value": "Orléans: Neue Ortskarten N°2" },
+        "yearpublished": { "value": "2015" }
+      },
+      {
+        "type": "boardgame",
+        "id": "185922",
+        "name": { "type": "primary", "value": "Orléans: Neue Ortskarten N°3" },
+        "yearpublished": { "value": "2015" }
+      },
+      {
+        "type": "boardgame",
+        "id": "211082",
+        "name": { "type": "primary", "value": "Orléans: Neue Ortskarten N°4" },
+        "yearpublished": { "value": "2016" }
+      },
+      {
+        "type": "boardgame",
+        "id": "237163",
+        "name": { "type": "primary", "value": "Orléans: Neue Ortskarten N°5" },
+        "yearpublished": { "value": "2017" }
+      },
+      {
+        "type": "boardgame",
+        "id": "234593",
+        "name": { "type": "primary", "value": "Orléans: Opera" },
+        "yearpublished": { "value": "2017" }
+      },
+      {
+        "type": "boardgame",
+        "id": "210145",
+        "name": { "type": "primary", "value": "Orléans: Prairie" },
+        "yearpublished": { "value": "2016" }
+      },
+      {
+        "type": "boardgame",
+        "id": "237167",
+        "name": { "type": "primary", "value": "Orléans: Promo Ortskarten N°1" },
+        "yearpublished": { "value": "2017" }
+      },
+      {
+        "type": "boardgame",
+        "id": "249576",
+        "name": { "type": "primary", "value": "Orléans: Promo Ortskarten N°2" },
+        "yearpublished": { "value": "2018" }
+      },
+      {
+        "type": "boardgame",
+        "id": "307008",
+        "name": { "type": "primary", "value": "Orléans: Promo Ortskarten N°3" },
+        "yearpublished": { "value": "2020" }
+      },
+      {
+        "type": "boardgame",
+        "id": "166842",
+        "name": { "type": "primary", "value": "Orléans: Tavern & Depot" },
+        "yearpublished": { "value": "2014" }
+      },
+      {
+        "type": "boardgame",
+        "id": "204814",
+        "name": { "type": "primary", "value": "Orléans: Trade & Intrigue" },
+        "yearpublished": { "value": "2016" }
+      },
+      {
+        "type": "boardgame",
+        "id": "175844",
+        "name": { "type": "primary", "value": "Orléans: Weinberge" },
+        "yearpublished": { "value": "2015" }
+      },
+      {
+        "type": "boardgame",
+        "id": "309312",
+        "name": { "type": "primary", "value": "Orléans: Собор" },
+        "yearpublished": { "value": "2018" }
+      }
+    ]
+  }
+}

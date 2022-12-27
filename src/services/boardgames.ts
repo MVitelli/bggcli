@@ -1,17 +1,15 @@
 import axios from 'axios'
-import {parseStringPromise} from 'xml2js'
+import * as parser from 'xml2json'
 
 const BGG_URL = 'https://boardgamegeek.com/xmlapi2/'
 const SEARCH_QUERY = 'search?query='
-const TYPE_QUERY = 'type=boardgame'
+const TYPE = 'type=boardgame'
+// const STATS = 'stats=1'
 
-const getBoardByName = async (gameName: string): Promise<any> => {
-  const result = await axios.get(`${BGG_URL}${SEARCH_QUERY}${gameName}&${TYPE_QUERY}`)
-  const jsonResult = await parseStringPromise(result.data)
+export const getBoardByName = async (gameName: string): Promise<any> => {
+  const result = await axios.get(`${BGG_URL}${SEARCH_QUERY}${gameName}&${TYPE}`)
+  const jsonResult = JSON.parse(parser.toJson(result.data))
   const [firstGame] = jsonResult.items.item
-  console.log('firstGame', firstGame)
 
   return firstGame
 }
-
-getBoardByName('orleans')
