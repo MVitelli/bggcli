@@ -1,8 +1,8 @@
 import {Command, Flags} from '@oclif/core'
-import { getBoardByName } from '../services/boardgames'
+import {getBoardByNameFromWeb} from '../services/scrapping'
 
 export default class Search extends Command {
-  static description = 'search a boardgame by name'
+  static description = 'Search a boardgame by name'
 
   static examples = [
     '<%= config.bin %> <%= command.id %>',
@@ -21,7 +21,7 @@ export default class Search extends Command {
     const {args} = await this.parse(Search)
 
     const {board} = args
-    const boardGame = await getBoardByName(board)
-    this.log(boardGame)
+    const boardGame = await getBoardByNameFromWeb(board)
+    this.log(JSON.stringify(boardGame, null, 2))
   }
 }

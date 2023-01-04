@@ -1,0 +1,653 @@
+{
+  "type": "boardgame",
+  "id": "164928",
+  "thumbnail": "https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__thumb/img/ykeqdM_Naz4IiqOgyB1arzteOiU=/fit-in/200x150/filters:strip_icc()/pic6228507.jpg",
+  "image": "https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__original/img/Qn6vlBaTUaHNFsqohIUjd0EA4z0=/0x0/filters:format(jpeg)/pic6228507.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "sortindex": "1",
+      "value": "Orléans"
+    },
+    {
+      "type": "alternate",
+      "sortindex": "1",
+      "value": "Orlean"
+    },
+    {
+      "type": "alternate",
+      "sortindex": "1",
+      "value": "Орлеан"
+    },
+    {
+      "type": "alternate",
+      "sortindex": "1",
+      "value": "オルレアン"
+    },
+    {
+      "type": "alternate",
+      "sortindex": "1",
+      "value": "奧爾良"
+    },
+    {
+      "type": "alternate",
+      "sortindex": "1",
+      "value": "오를레앙"
+    }
+  ],
+  "description": "During the medieval goings-on around Orl&eacute;ans, you must assemble a following of farmers, merchants, knights, monks, etc. to gain supremacy through trade, construction and science in medieval France.&#10;&#10;In Orl&eacute;ans, you will recruit followers and put them to work to make use of their abilities. Farmers and Boatmen supply you with money and goods; Knights expand your scope of action and secure your mercantile expeditions; Craftsmen build trading stations and tools to facilitate work; Scholars make progress in science; Traders open up new locations for you to use your followers; and last but not least, it cannot hurt to get active in monasteries since with Monks on your side you are much less likely to fall prey to fate.&#10;&#10;You will always want to take more actions than possible, and there are many paths to victory. The challenge is to combine all elements as best as possible with regard to your strategy.&#10;&#10;",
+  "yearpublished": {
+    "value": "2014"
+  },
+  "minplayers": {
+    "value": "2"
+  },
+  "maxplayers": {
+    "value": "4"
+  },
+  "poll": [
+    {
+      "name": "suggested_numplayers",
+      "title": "User Suggested Number of Players",
+      "totalvotes": "365",
+      "results": [
+        {
+          "numplayers": "1",
+          "result": [
+            {
+              "value": "Best",
+              "numvotes": "0"
+            },
+            {
+              "value": "Recommended",
+              "numvotes": "19"
+            },
+            {
+              "value": "Not Recommended",
+              "numvotes": "167"
+            }
+          ]
+        },
+        {
+          "numplayers": "2",
+          "result": [
+            {
+              "value": "Best",
+              "numvotes": "37"
+            },
+            {
+              "value": "Recommended",
+              "numvotes": "218"
+            },
+            {
+              "value": "Not Recommended",
+              "numvotes": "50"
+            }
+          ]
+        },
+        {
+          "numplayers": "3",
+          "result": [
+            {
+              "value": "Best",
+              "numvotes": "114"
+            },
+            {
+              "value": "Recommended",
+              "numvotes": "162"
+            },
+            {
+              "value": "Not Recommended",
+              "numvotes": "6"
+            }
+          ]
+        },
+        {
+          "numplayers": "4",
+          "result": [
+            {
+              "value": "Best",
+              "numvotes": "201"
+            },
+            {
+              "value": "Recommended",
+              "numvotes": "75"
+            },
+            {
+              "value": "Not Recommended",
+              "numvotes": "14"
+            }
+          ]
+        },
+        {
+          "numplayers": "4+",
+          "result": [
+            {
+              "value": "Best",
+              "numvotes": "10"
+            },
+            {
+              "value": "Recommended",
+              "numvotes": "34"
+            },
+            {
+              "value": "Not Recommended",
+              "numvotes": "121"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "suggested_playerage",
+      "title": "User Suggested Player Age",
+      "totalvotes": "70",
+      "results": {
+        "result": [
+          {
+            "value": "2",
+            "numvotes": "0"
+          },
+          {
+            "value": "3",
+            "numvotes": "0"
+          },
+          {
+            "value": "4",
+            "numvotes": "0"
+          },
+          {
+            "value": "5",
+            "numvotes": "0"
+          },
+          {
+            "value": "6",
+            "numvotes": "1"
+          },
+          {
+            "value": "8",
+            "numvotes": "10"
+          },
+          {
+            "value": "10",
+            "numvotes": "19"
+          },
+          {
+            "value": "12",
+            "numvotes": "36"
+          },
+          {
+            "value": "14",
+            "numvotes": "4"
+          },
+          {
+            "value": "16",
+            "numvotes": "0"
+          },
+          {
+            "value": "18",
+            "numvotes": "0"
+          },
+          {
+            "value": "21 and up",
+            "numvotes": "0"
+          }
+        ]
+      }
+    },
+    {
+      "name": "language_dependence",
+      "title": "Language Dependence",
+      "totalvotes": "42",
+      "results": {
+        "result": [
+          {
+            "level": "1",
+            "value": "No necessary in-game text",
+            "numvotes": "37"
+          },
+          {
+            "level": "2",
+            "value": "Some necessary text - easily memorized or small crib sheet",
+            "numvotes": "5"
+          },
+          {
+            "level": "3",
+            "value": "Moderate in-game text - needs crib sheet or paste ups",
+            "numvotes": "0"
+          },
+          {
+            "level": "4",
+            "value": "Extensive use of text - massive conversion needed to be playable",
+            "numvotes": "0"
+          },
+          {
+            "level": "5",
+            "value": "Unplayable in another language",
+            "numvotes": "0"
+          }
+        ]
+      }
+    }
+  ],
+  "playingtime": {
+    "value": "90"
+  },
+  "minplaytime": {
+    "value": "90"
+  },
+  "maxplaytime": {
+    "value": "90"
+  },
+  "minage": {
+    "value": "12"
+  },
+  "link": [
+    {
+      "type": "boardgamecategory",
+      "id": "1035",
+      "value": "Medieval"
+    },
+    {
+      "type": "boardgamecategory",
+      "id": "1115",
+      "value": "Religious"
+    },
+    {
+      "type": "boardgamecategory",
+      "id": "1097",
+      "value": "Travel"
+    },
+    {
+      "type": "boardgamemechanic",
+      "id": "2912",
+      "value": "Contracts"
+    },
+    {
+      "type": "boardgamemechanic",
+      "id": "2664",
+      "value": "Deck, Bag, and Pool Building"
+    },
+    {
+      "type": "boardgamemechanic",
+      "id": "2875",
+      "value": "End Game Bonuses"
+    },
+    {
+      "type": "boardgamemechanic",
+      "id": "2850",
+      "value": "Events"
+    },
+    {
+      "type": "boardgamemechanic",
+      "id": "2078",
+      "value": "Point to Point Movement"
+    },
+    {
+      "type": "boardgamemechanic",
+      "id": "2020",
+      "value": "Simultaneous Action Selection"
+    },
+    {
+      "type": "boardgamemechanic",
+      "id": "2849",
+      "value": "Tech Trees / Tech Tracks"
+    },
+    {
+      "type": "boardgamemechanic",
+      "id": "2828",
+      "value": "Turn Order: Progressive"
+    },
+    {
+      "type": "boardgamemechanic",
+      "id": "2897",
+      "value": "Variable Set-up"
+    },
+    {
+      "type": "boardgamefamily",
+      "id": "26568",
+      "value": "Cities: Orléans (France)"
+    },
+    {
+      "type": "boardgamefamily",
+      "id": "64960",
+      "value": "Components: Map (Continental / National scale)"
+    },
+    {
+      "type": "boardgamefamily",
+      "id": "11006",
+      "value": "Country: France"
+    },
+    {
+      "type": "boardgamefamily",
+      "id": "8374",
+      "value": "Crowdfunding: Kickstarter"
+    },
+    {
+      "type": "boardgamefamily",
+      "id": "28659",
+      "value": "Crowdfunding: Wspieram"
+    },
+    {
+      "type": "boardgamefamily",
+      "id": "70948",
+      "value": "Digital Implementations: Tabletopia"
+    },
+    {
+      "type": "boardgamefamily",
+      "id": "38433",
+      "value": "Game: Orléans"
+    },
+    {
+      "type": "boardgamefamily",
+      "id": "65851",
+      "value": "Players: Games with expansions that add solo play"
+    },
+    {
+      "type": "boardgamefamily",
+      "id": "75169",
+      "value": "Religious: Monks/Abbots & Monasteries/Abbeys"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "178656",
+      "value": "Brettspiel Adventskalender 2015"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "317189",
+      "value": "Meeple BR Jogos Promo Pack #1"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "289400",
+      "value": "Orlean: Zagroda"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "231964",
+      "value": "Orléans: 5th Player Box"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "189623",
+      "value": "Orléans: Christmas Market"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "186236",
+      "value": "Orléans: Die Reise nach Tours"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "231405",
+      "value": "Orléans: Drawbridge"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "307822",
+      "value": "Orléans: Estátua"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "190049",
+      "value": "Orléans: Fan-Kit"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "286020",
+      "value": "Orléans: Gaming Room"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "183682",
+      "value": "Orléans: Invasion"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "247797",
+      "value": "Orléans: L'évêché de Tours"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "179417",
+      "value": "Orléans: Neue Ortskarten N°1"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "184018",
+      "value": "Orléans: Neue Ortskarten N°2"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "185922",
+      "value": "Orléans: Neue Ortskarten N°3"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "211082",
+      "value": "Orléans: Neue Ortskarten N°4"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "237163",
+      "value": "Orléans: Neue Ortskarten N°5"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "234593",
+      "value": "Orléans: Opera"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "210145",
+      "value": "Orléans: Prairie"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "237167",
+      "value": "Orléans: Promo Ortskarten N°1"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "249576",
+      "value": "Orléans: Promo Ortskarten N°2"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "307008",
+      "value": "Orléans: Promo Ortskarten N°3"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "166842",
+      "value": "Orléans: Tavern & Depot"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "204814",
+      "value": "Orléans: Trade & Intrigue"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "175844",
+      "value": "Orléans: Weinberge"
+    },
+    {
+      "type": "boardgameexpansion",
+      "id": "309312",
+      "value": "Orléans: Собор"
+    },
+    {
+      "type": "boardgamecompilation",
+      "id": "171905",
+      "value": "Orléans: Deluxe Edition"
+    },
+    {
+      "type": "boardgameimplementation",
+      "id": "364641",
+      "value": "Joan of Arc: Orléans Draw & Write"
+    },
+    {
+      "type": "boardgameimplementation",
+      "id": "287275",
+      "value": "Orléans Stories"
+    },
+    {
+      "type": "boardgamedesigner",
+      "id": "158",
+      "value": "Reiner Stockhausen"
+    },
+    {
+      "type": "boardgameartist",
+      "id": "11507",
+      "value": "Klemens Franz"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "10848",
+      "value": "dlp games"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "3475",
+      "value": "Arclight Games"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "36401",
+      "value": "Arrakis Games"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "30383",
+      "value": "Baldar"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "51066",
+      "value": "BGA Plus"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "30958",
+      "value": "Capstone Games"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "10768",
+      "value": "Cranio Creations"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "39390",
+      "value": "Engames"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "29194",
+      "value": "GaGa Games"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "8291",
+      "value": "Korea Boardgames Co., Ltd."
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "5400",
+      "value": "Matagot"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "49615",
+      "value": "MEEPLE"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "32591",
+      "value": "MeepleBR"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "36763",
+      "value": "Surfin' Meeple China"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "9234",
+      "value": "Swan Panasia Co., Ltd."
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "9499",
+      "value": "Tasty Minstrel Games"
+    },
+    {
+      "type": "boardgamepublisher",
+      "id": "4932",
+      "value": "White Goblin Games"
+    }
+  ],
+  "statistics": {
+    "page": "1",
+    "ratings": {
+      "usersrated": {
+        "value": "27609"
+      },
+      "average": {
+        "value": "8.06823"
+      },
+      "bayesaverage": {
+        "value": "7.88019"
+      },
+      "ranks": {
+        "rank": [
+          {
+            "type": "subtype",
+            "id": "1",
+            "name": "boardgame",
+            "friendlyname": "Board Game Rank",
+            "value": "30",
+            "bayesaverage": "7.88019"
+          },
+          {
+            "type": "family",
+            "id": "5497",
+            "name": "strategygames",
+            "friendlyname": "Strategy Game Rank",
+            "value": "23",
+            "bayesaverage": "7.91233"
+          }
+        ]
+      },
+      "stddev": {
+        "value": "1.16183"
+      },
+      "median": {
+        "value": "0"
+      },
+      "owned": {
+        "value": "34250"
+      },
+      "trading": {
+        "value": "274"
+      },
+      "wanting": {
+        "value": "1360"
+      },
+      "wishing": {
+        "value": "7805"
+      },
+      "numcomments": {
+        "value": "4014"
+      },
+      "numweights": {
+        "value": "952"
+      },
+      "averageweight": {
+        "value": "3.0326"
+      }
+    }
+  }
+}
