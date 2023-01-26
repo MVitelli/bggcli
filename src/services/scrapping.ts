@@ -1,9 +1,21 @@
 import axios from 'axios'
 import * as BoardgamesService from './boardgames'
 
+interface Boardgame {
+  name: string,
+  href: string,
+  yearPublished: number,
+  id: number
+}
+
+type BgResponse = Boardgame & {
+  ranking: number,
+  score: number,
+}
+
 const BGG_URL = 'https://boardgamegeek.com/geeksearch.php'
 
-const getBoardsByName = async (name: string) : Promise<any[]> => {
+const getBoardsByName = async (name: string) : Promise<Boardgame[]> => {
   const {data: {items}} = await axios.get(BGG_URL, {
     params: {
       action: 'search',
@@ -27,11 +39,11 @@ export const getBoardsTable = async (name: string) : Promise<any> => {
   return data
 }
 
-export const getBoardByNameFromWeb = async (boardName: string) : Promise<any> => {
+export const getBoardByNameFromWeb = async (boardName: string) : Promise<BgResponse> => {
   const [firstGame] = await getBoardsByName(boardName)
-  const {statistics} = await BoardgamesService.getDetailsById(firstGame.id)
-
   const {name, id, href, yearPublished} = firstGame
+
+  const {statistics} = await BoardgamesService.getDetailsById(id)
   const {ratings: {ranks: {rank: [generalRank]}}} = statistics
   const {value, bayesaverage} = generalRank
 

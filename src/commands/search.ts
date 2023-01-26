@@ -10,7 +10,7 @@ export default class Search extends Command {
 
   static flags = {
     // flag with a value (-n, --name=VALUE)
-    name: Flags.string({char: 'n', description: 'name to print'}),
+    // name: Flags.string({char: 'n', description: 'name to search'}),
     // flag with no value (-f, --force)
     force: Flags.boolean({char: 'f'}),
   }
@@ -21,7 +21,7 @@ export default class Search extends Command {
     const {args} = await this.parse(Search)
 
     const {board} = args
-    const boardGame = await getBoardByNameFromWeb(board)
-    this.log(JSON.stringify(boardGame, null, 2))
+    const boardgame = await getBoardByNameFromWeb(board)
+    this.log(JSON.stringify(boardgame, null, 2))
   }
 }
