@@ -19,7 +19,7 @@
   "dependencies": {
     "@oclif/core": "^1.25.0",
     "@oclif/plugin-help": "^5",
-    "@oclif/plugin-plugins": "^2.2.2",
+    "@oclif/plugin-plugins": "^2.4.0",
     "axios": "^1.2.3",
     "dotenv": "^16.0.3",
     "xml2json": "^0.12.0"
